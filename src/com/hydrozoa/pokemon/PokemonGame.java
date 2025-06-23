@@ -146,7 +146,7 @@ public class PokemonGame extends Game {
 		battleScreen = new BattleScreen(this);
 		transitionScreen = new TransitionScreen(this);
 		
-		this.setScreen(gameScreen);
+		this.setScreen(battleScreen);
 	}
 	
 	@Override

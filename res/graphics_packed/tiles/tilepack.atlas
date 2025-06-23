@@ -347,6 +347,13 @@ brown_path_grass_west
   orig: 16, 16
   offset: 0, 0
   index: -1
+wild_grass
+  rotate: false
+  xy: 359, 2
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
 flowers
   rotate: false
   xy: 214, 2
