@@ -81,7 +81,9 @@ addDoor	15	5
 addFlowers		9	12
 addFlowers		10	11
 addFlowers		11	13
-addObj		11	12	SIGN	
+addObj		11	12	SIGN
+
+
 
 // placement of pokecenter
 addObj	5	5	OLDALE_HOUSE
@@ -93,3 +95,11 @@ addDoor	14	15
 
 
 addObj	9	16	BIG_TREE
+
+addWildGrass    9   21
+addWildGrass    10   21
+addWildGrass    9   22
+addWildGrass    10   22
+
+teleport		12	21	GRASS	littleroot_town		9	24	SOUTH	WHITE
+teleport		13	21	GRASS	littleroot_town		9	24	SOUTH	WHITE

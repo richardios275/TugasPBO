@@ -92,6 +92,16 @@
 			<tile x="1" y="1" />
 		</tiles>
 	</obj>
+	<obj name="WILD_GRASS">
+		<imageName>wild_grass</imageName>
+		<size x="2f" y="3f" />
+		<tiles>
+			<tile x="0" y="0" />
+			<tile x="1" y="0" />
+			<tile x="0" y="1" />
+			<tile x="1" y="1" />
+		</tiles>
+	</obj>
 	<obj name="SIGN">
 		<imageName>sign</imageName>
 		<size x="1f" y="1f" />
